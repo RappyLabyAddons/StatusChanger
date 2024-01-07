@@ -1,0 +1,24 @@
+{
+  "labystatus": {
+    "settings": {
+      "name": "LabyStatus",
+      "enabled": {
+        "name": "Enabled"
+    },
+    "header": {
+      "support": {
+        "name": "Discord"
+      }
+    },
+    "openDiscordLink": {
+      "name": "You need Support?",
+      "text": "Join Discord"
+    }
+  },
+    "messages": {
+      "set": "§8[§bLabyStatus§8] §7You §7have §7changed §7your §7LabyMod §7status§8.",
+      "usage": "§8[§bLabyStatus§8] §7Please §7use §7/status §8<§7message§8>.",
+      "maxlenght": "§8[§bLabyStatus§8] §7The §7maximum §7length §7is §b32 §7characters§8."
+    }
+  }
+}

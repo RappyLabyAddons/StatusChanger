@@ -10,12 +10,12 @@ version = "1.0.0"
 java.toolchain.languageVersion.set(JavaLanguageVersion.of(17))
 
 labyMod {
-    defaultPackageName = "de.einsjustinnn" //change this to your main package name (used by all modules)
+    defaultPackageName = "de.einsjuannn" //change this to your main package name (used by all modules)
     addonInfo {
-        namespace = "status"
-        displayName = "Status"
+        namespace = "labystatus"
+        displayName = "LabyStatus"
         author = "EinsJustinnn, langhalsluan"
-        description = "change Game Status"
+        description = "Set your LabyMod status so that others can see it."
         minecraftVersion = "*"
         version = System.getenv().getOrDefault("VERSION", "0.0.1")
     }
