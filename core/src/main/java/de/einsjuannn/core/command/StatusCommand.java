@@ -16,7 +16,7 @@ public class StatusCommand extends Command {
 
     @Override
     public boolean execute(String prefix, String[] args) {
-        if (aliases.length < 1) {
+        if (args.length < 1) {
             displayMessage(I18n.translate("labystatus.messages.usage"));
             return true;
         }
