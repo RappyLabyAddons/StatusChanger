@@ -1,4 +1,4 @@
-rootProject.name = "labymod-status"
+rootProject.name = "statuschanger"
 
 pluginManagement {
     val labyGradlePluginVersion = "0.3.43"
