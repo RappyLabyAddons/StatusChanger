@@ -14,10 +14,10 @@ labyMod {
     addonInfo {
         namespace = "labystatus"
         displayName = "LabyStatus"
-        author = "EinsJustinnn, langhalsluan"
+        author = "EinsJustinnn, langhalsluan, RappyTV"
         description = "Set your LabyMod status so that others can see it."
         minecraftVersion = "*"
-        version = System.getenv().getOrDefault("VERSION", "0.0.1")
+        version = System.getenv().getOrDefault("VERSION", "1.0.0")
     }
 
     minecraft {
